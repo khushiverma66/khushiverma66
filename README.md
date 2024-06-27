@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <img align="right" width="250" src="https://i.pinimg.com/originals/12/53/1e/12531e0475545976e249eb6eca919b51.gif">
-🔭 I’m currently working on Frontend Development<br>🌱 I’m currently learning DSA
+🔭 I’m currently working on iOS Development<br>🌱 I’m currently learning DSA
 
 
 
